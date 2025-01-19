@@ -1,4 +1,4 @@
-from dbm.ndbm import library
+# HOS02: Enumerations
 from enum import Enum
 from pty import CHILD
 
@@ -28,12 +28,17 @@ class Library:
             return [book for book in self.books if book.category == category]
         return self.books
     
-    book1 = Book("The Great Gatsby", "F. Scott Fitzgerald", Category.FICTION)
-    book2 = Book("The Da Vinci Code", "Dan Brown", Category.FICTION)
+    def display_books(self):
+        for book in self.books:
+            print(book)
     
-    fiction_category_number = 1
-    fiction_category_enum = Category(fiction_category_number)
-    book3 = Book("The Catcher in the Rye", "J.D. Salinger", fiction_category_enum)  
+book1 = Book("The Great Gatsby", "F. Scott Fitzgerald", Category.FICTION)
+book2 = Book("The Da Vinci Code", "Dan Brown", Category.FICTION)
+
+fiction_category_number = 1
+fiction_category_enum = Category(fiction_category_number)
+book3 = Book("The Catcher in the Rye", "J.D. Salinger", fiction_category_enum)
+
 library = Library()
 library.add_book(book1)
 library.add_book(book2)
