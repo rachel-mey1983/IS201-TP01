@@ -1,5 +1,3 @@
-# IS201
-
 ####TP01README####
 Team Project (TP) (20%)
 
@@ -83,10 +81,11 @@ Components
 Correctness	100%
 TOTAL	100%
 Knowledge Check
-Course Policies on topics such as Late Assignments, Participation, and Professional Writing are found Content -> Syllabus, Schedule, and Course Team -> Course Policies in the online course menu. Students are responsible for reviewing and applying these policies while enrolled in this course.
+Course Policies
+Course policies on topics such as Late Assignments, Participation, and Professional Writing are found Content -> Syllabus, Schedule, and Course Team -> Course Policies in the online course menu. Students are responsible for reviewing and applying these policies while enrolled in this course.
 
 University Policies
-Students are responsible for understanding and adhering to all of CityU’s academic policies. The most current versions of these policies can be found in the University Catalog that is linked from the CityU Website. 
+Students are responsible for understanding and adhering to all of CityU’s academic policies. The most current versions of these policies can be found in the University Catalog that is linked from the CityU Web site. 
 
 Non-Discrimination & Prohibition of Sexual Harassment 
 City University of Seattle, its staff and its faculty are deeply committed to supporting our students. We value equity, diversity, and inclusion as a way of life as well as for the educational opportunities it provides. CityU will not tolerate any form of discrimination based on race, color, ethnicity, sexual orientation, gender identification, socioeconomic status, or religious values. Any student who has experienced discrimination based on the above criteria is encouraged to report this to the University. Students may report an experience of discrimination to their course instructor. If they do not feel safe reporting to their instructor, students may report an experience of discrimination directly to the university Provost or the Vice President of Student Affairs. 
@@ -96,7 +95,7 @@ CityU adheres to all federal, state, and local civil rights laws prohibiting dis
 In the U.S., the University is required by Title IX of the Education Amendments of 1972 to ensure that all of its education programs and activities do not discriminate on the basis of sex/gender. Sex include sex, sex stereotypes, gender identity, gender expression, sexual orientation, and pregnancy or parenting status. Sexual harassment, sexual assault, dating and domestic violence, and stalking are forms of sex discrimination, which are prohibited under Title IX and by CityU policy. CityU also prohibits retaliation against any person opposing discrimination or participating in any discrimination investigation or complaint process internal or external to the institution. Questions regarding Title IX, including its application and/or concerns about noncompliance, should be directed to the Title IX Coordinator. For more information visit Title IX Policy and Contact Information. 
 
 Religious Accommodations
-CityU has a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The University’s policy, including more information about how to request an accommodation, is available in the University Catalog and on the.cityu.edu student portal. Accommodations must be requested by the 20% mark of this course (e.g. day 14 of a ten-week course, day 7 of a 5-week course) using the Religious Accommodations Request Form found on the student dashboard in the my.cityu.edu student portal.
+CityU has a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The University’s policy, including more information about how to request an accommodation, is available in the University Catalog and on the my.cityu.edu student portal. Accommodations must be requested by the 20% mark of this course (e.g. day 14 of a ten-week course, day 7 of a 5-week course) using the Religious Accommodations Request Form found on the student dashboard in the my.cityu.edu student portal.
 
 Academic Integrity 
 
@@ -130,4 +129,3 @@ CityU librarians are available to help students find the resources and informati
 Online Tutoring
 CityU students have access to free online tutoring offered through Brainfuse, including writing support, from certified tutors 24 hours a day, seven days a week. For more information visit the Brainfuse page on the my.cityu.edu portal.
 
-########
