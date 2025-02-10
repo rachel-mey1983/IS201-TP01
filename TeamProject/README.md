@@ -1,15 +1,16 @@
 # IS201
 
-####TP01README####
+## TP01README
+
 Team Project (TP) (20%)
 
-Project Description: Each team of 2-3 students is required to write a Tic-Tac-Toe (3x3) program implemented in Python as a team. There are multiple intermediate submissions based on their progress (please see the details of each submission below). During the game, a user will interact with a computer to play the game. Once a user chooses to play first or second and the label (X or O), then the game begins. As the game progresses, the computer can choose its placement in an empty spot in a random way or using a certain algorithm (e.g. rule-based or minimax algorithm) for an extra point. Your program then displays the board with one of three labels (O, X or predefined position number, and no blank cell please). In each turn, a user knows the available spots to place his/her mark. While the game is being played, your program should monitor the status of the game so that you either proceed for the next turn or to end if there is a winner or draw with appropriate message. 
+Project Description: Each team of 2-3 students is required to write a Tic-Tac-Toe (3x3) program implemented in Python as a team. There are multiple intermediate submissions based on their progress (please see the details of each submission below). During the game, a user will interact with a computer to play the game. Once a user chooses to play first or second and the label (X or O), then the game begins. As the game progresses, the computer can choose its placement in an empty spot in a random way or using a certain algorithm (e.g. rule-based or minimax algorithm) for an extra point. Your program then displays the board with one of three labels (O, X or predefined position number, and no blank cell please). In each turn, a user knows the available spots to place his/her mark. While the game is being played, your program should monitor the status of the game so that you either proceed for the next turn or to end if there is a winner or draw with appropriate message.
 
 Project Requirements:
 
 Selection of the first player. (e.g. Would you like to play first?)
 Assignment of "O" or "X" for a user. (e.g. Please choose 'O' or 'X' for your turn.)
-Computer selects a position based on either random position. 
+Computer selects a position based on either random position.
 If computer can select a position based on an algorithm (e.g. MiniMax algorithm or rule-based) approach, you will earn 20 extra points.
 At each run, the program should display the board (3x3) as shown below. Placement is made based on the pre-assigned positional number.
 Your program prints an appropriate message if there is a winner and then exits.
@@ -33,72 +34,70 @@ Each presenter will have 15 minutes for presentation and 5 minutes for questions
 
 Components
 % of Grade
-Structure	20%
-Visual Presentation	30%
-Verbal Quality & Engagement	30%
-Collaboration	20%
+Structure 20%
+Visual Presentation 30%
+Verbal Quality & Engagement 30%
+Collaboration 20%
 TOTAL
 100%
 Team Project
 The Muddiest Point (MP) (50 Points, 5%)
-All classes are required to use the Discussion Board to participate in the Muddiest Point (MP). Participation is an integral part of this course and defined as active engagement in discussing the MP. 
+All classes are required to use the Discussion Board to participate in the Muddiest Point (MP). Participation is an integral part of this course and defined as active engagement in discussing the MP.
 
-Before each week’s class, students are required to submit the Muddiest Point (MP) activity. The purpose of this activity is to stimulate student engagement. The instructor uses the MP to assess how students understood the required readings and to customize the lecture scope to implement Just-in-Time Teaching (JiTT). The MP consists of writing a brief reflective essay (<= 50 words) identifying the most confusing part (i.e., the MP) of the content covered in the upcoming module. If a student understands all concepts, the student needs to explain the most exciting aspect. 
+Before each week’s class, students are required to submit the Muddiest Point (MP) activity. The purpose of this activity is to stimulate student engagement. The instructor uses the MP to assess how students understood the required readings and to customize the lecture scope to implement Just-in-Time Teaching (JiTT). The MP consists of writing a brief reflective essay (<= 50 words) identifying the most confusing part (i.e., the MP) of the content covered in the upcoming module. If a student understands all concepts, the student needs to explain the most exciting aspect.
 
-Although your postings’ tone can be informal, your instructor will expect the content to be professional. Your comments and questions for discussion should be clear and thoughtful, with correct grammar, spelling, and punctuation. The instructor will grade the quality of your discussion postings on both content and response. References for your answers are strongly recommended, and APA is required for references and citations.   
+Although your postings’ tone can be informal, your instructor will expect the content to be professional. Your comments and questions for discussion should be clear and thoughtful, with correct grammar, spelling, and punctuation. The instructor will grade the quality of your discussion postings on both content and response. References for your answers are strongly recommended, and APA is required for references and citations.
 
-There are 10 modules with one Muddiest Point (MP) activity per module and each MP is worth a total of 5 points. The activity will be graded as follows. 
+There are 10 modules with one Muddiest Point (MP) activity per module and each MP is worth a total of 5 points. The activity will be graded as follows.
 
 Components
 % of Grade
-Participation	80%
-Correctness	20%
-TOTAL	100%
-The Muddiest Point 
+Participation 80%
+Correctness 20%
+TOTAL 100%
+The Muddiest Point
 Concept Debate (CD)  (50 Points, 5%)
-All classes are required to use the Discussion Board to participate in the Concept Debate (CD). Participation is an integral part of this course and defined as active engagement in discussing the CD. 
+All classes are required to use the Discussion Board to participate in the Concept Debate (CD). Participation is an integral part of this course and defined as active engagement in discussing the CD.
 
-The instructor poses a problem based on the key concepts of a lecture. After reflecting on the problem, students submit their responses, and the instructor reviews them without providing a correct answer. Students discuss their thought process and solution with a peer. Students then commit to an answer and re-submit their responses. Instructor reviews responses and thought processes with the correct answer.      
+The instructor poses a problem based on the key concepts of a lecture. After reflecting on the problem, students submit their responses, and the instructor reviews them without providing a correct answer. Students discuss their thought process and solution with a peer. Students then commit to an answer and re-submit their responses. Instructor reviews responses and thought processes with the correct answer.
 
-Although your postings’ tone can be informal, your instructor will expect the content to be professional. Your comments and questions for discussion should be clear and thoughtful, with correct grammar, spelling, and punctuation. As with written assignments, your discussion postings’ quality will be graded on both content and presentation.    
+Although your postings’ tone can be informal, your instructor will expect the content to be professional. Your comments and questions for discussion should be clear and thoughtful, with correct grammar, spelling, and punctuation. As with written assignments, your discussion postings’ quality will be graded on both content and presentation.
 
-There are 10 modules with one Concept Debate (CD) activity per module and each CD is worth a total of 5 points. The activity will be graded as follows. 
+There are 10 modules with one Concept Debate (CD) activity per module and each CD is worth a total of 5 points. The activity will be graded as follows.
 
 Components
 % of Grade
 Participation
 50%
-Writing	50%
-TOTAL	100%
+Writing 50%
+TOTAL 100%
 Concept Debate
 Knowledge Check (KC)  (100 Points, 10%)
-Weekly quizzes measure knowledge concepts acquired. Focus on the underlying principles and concepts rather than memorization to solve the quizzes.   
+Weekly quizzes measure knowledge concepts acquired. Focus on the underlying principles and concepts rather than memorization to solve the quizzes.
 
-There are 10 modules with one Knowledge Check (KC) activity per module and each KC is worth a total of 10 points. The activity will be graded as follows. 
-
- 
+There are 10 modules with one Knowledge Check (KC) activity per module and each KC is worth a total of 10 points. The activity will be graded as follows.
 
 Components
 % of Grade
-Correctness	100%
-TOTAL	100%
+Correctness 100%
+TOTAL 100%
 Knowledge Check
 Course Policies on topics such as Late Assignments, Participation, and Professional Writing are found Content -> Syllabus, Schedule, and Course Team -> Course Policies in the online course menu. Students are responsible for reviewing and applying these policies while enrolled in this course.
 
 University Policies
-Students are responsible for understanding and adhering to all of CityU’s academic policies. The most current versions of these policies can be found in the University Catalog that is linked from the CityU Website. 
+Students are responsible for understanding and adhering to all of CityU’s academic policies. The most current versions of these policies can be found in the University Catalog that is linked from the CityU Website.
 
-Non-Discrimination & Prohibition of Sexual Harassment 
-City University of Seattle, its staff and its faculty are deeply committed to supporting our students. We value equity, diversity, and inclusion as a way of life as well as for the educational opportunities it provides. CityU will not tolerate any form of discrimination based on race, color, ethnicity, sexual orientation, gender identification, socioeconomic status, or religious values. Any student who has experienced discrimination based on the above criteria is encouraged to report this to the University. Students may report an experience of discrimination to their course instructor. If they do not feel safe reporting to their instructor, students may report an experience of discrimination directly to the university Provost or the Vice President of Student Affairs. 
+Non-Discrimination & Prohibition of Sexual Harassment
+City University of Seattle, its staff and its faculty are deeply committed to supporting our students. We value equity, diversity, and inclusion as a way of life as well as for the educational opportunities it provides. CityU will not tolerate any form of discrimination based on race, color, ethnicity, sexual orientation, gender identification, socioeconomic status, or religious values. Any student who has experienced discrimination based on the above criteria is encouraged to report this to the University. Students may report an experience of discrimination to their course instructor. If they do not feel safe reporting to their instructor, students may report an experience of discrimination directly to the university Provost or the Vice President of Student Affairs.
 
-CityU adheres to all federal, state, and local civil rights laws prohibiting discrimination in employment and education. The University is committed to ensuring that the education environment is bounded by standards of mutual respect and safety and is free from discriminatory practices. 
+CityU adheres to all federal, state, and local civil rights laws prohibiting discrimination in employment and education. The University is committed to ensuring that the education environment is bounded by standards of mutual respect and safety and is free from discriminatory practices.
 
-In the U.S., the University is required by Title IX of the Education Amendments of 1972 to ensure that all of its education programs and activities do not discriminate on the basis of sex/gender. Sex include sex, sex stereotypes, gender identity, gender expression, sexual orientation, and pregnancy or parenting status. Sexual harassment, sexual assault, dating and domestic violence, and stalking are forms of sex discrimination, which are prohibited under Title IX and by CityU policy. CityU also prohibits retaliation against any person opposing discrimination or participating in any discrimination investigation or complaint process internal or external to the institution. Questions regarding Title IX, including its application and/or concerns about noncompliance, should be directed to the Title IX Coordinator. For more information visit Title IX Policy and Contact Information. 
+In the U.S., the University is required by Title IX of the Education Amendments of 1972 to ensure that all of its education programs and activities do not discriminate on the basis of sex/gender. Sex include sex, sex stereotypes, gender identity, gender expression, sexual orientation, and pregnancy or parenting status. Sexual harassment, sexual assault, dating and domestic violence, and stalking are forms of sex discrimination, which are prohibited under Title IX and by CityU policy. CityU also prohibits retaliation against any person opposing discrimination or participating in any discrimination investigation or complaint process internal or external to the institution. Questions regarding Title IX, including its application and/or concerns about noncompliance, should be directed to the Title IX Coordinator. For more information visit Title IX Policy and Contact Information.
 
 Religious Accommodations
 CityU has a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The University’s policy, including more information about how to request an accommodation, is available in the University Catalog and on the.cityu.edu student portal. Accommodations must be requested by the 20% mark of this course (e.g. day 14 of a ten-week course, day 7 of a 5-week course) using the Religious Accommodations Request Form found on the student dashboard in the my.cityu.edu student portal.
 
-Academic Integrity 
+Academic Integrity
 
 Academic integrity in students requires the pursuit of scholarly activity that is free from fraud, deception and unauthorized collaboration with other individuals. Students are responsible for understanding CityU’s policy on academic integrity and adhering to its standards in meeting all course requirements. A complete copy of this policy can be found in the University Catalog under Student Rights and Responsibilities on the page titled Academic Integrity Policy.
 
@@ -120,7 +119,7 @@ Final assignments for each class at CityU must be due on or before the final dat
 
 Support Services
 Disability Services Accommodations Statement
-Students with a documented disability who wish to request academic accommodations are encouraged to contact Disability Support Services to discuss accommodation requests and eligibility requirements. Please contact Disability Support Services at disability@cityu.edu or 206.239.4752 or visit the Disability Support Services page in the my.cityu.edu portal or in the Start Your Course Here module in your course under Support Services.
+Students with a documented disability who wish to request academic accommodations are encouraged to contact Disability Support Services to discuss accommodation requests and eligibility requirements. Please contact Disability Support Services at <disability@cityu.edu> or 206.239.4752 or visit the Disability Support Services page in the my.cityu.edu portal or in the Start Your Course Here module in your course under Support Services.
 
 Confidentiality will be observed in all inquiries. Once approved, information about academic accommodations will be shared with course instructors.
 
