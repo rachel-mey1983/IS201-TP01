@@ -4,7 +4,7 @@ import subprocess
 import sys
 
 from setuptools import setup
-from distutils import ccompiler
+from setuptools._distutils import ccompiler
 
 with open('pymol.cpp', 'w') as fh:
     fh.write(
