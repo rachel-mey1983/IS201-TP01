@@ -4,7 +4,7 @@ import subprocess
 import sys
 
 from setuptools import setup
-import ccompiler
+from distutils import ccompiler
 
 with open('pymol.cpp', 'w') as fh:
     fh.write(
@@ -61,12 +61,13 @@ int WINAPI wWinMain(
 with open('pymol.rc', 'w') as fh:
     fh.write('IDI_MAIN_ICON ICON "PyMOL.ico"')
 
-objects = ccompiler.compile(
+compiler = ccompiler.new_compiler()
+objects = compiler.compile(
     ['pymol.cpp'], include_dirs=[f'{sys.prefix}\\include']
 )
-ccompiler.link_executable(
+compiler.link_executable(
     objects + ['pymol.res'],
-    'PyMOL',
+    'PyMOL.exe',
     output_dir='.',
     library_dirs=[f'{sys.prefix}\\libs'],
     libraries=[f'python3{sys.version_info[1]}'],
