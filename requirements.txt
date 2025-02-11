@@ -1,1 +1,14 @@
 pygame==2.6.1
+
+
+###### Installation ######
+
+##### Before you start installing libraries or running your project, 
+you need to activate the virtual environment. Activating it ensures 
+that all Python commands (e.g., python, pip) use the environment Python interpreter. ######
+### RUN   .\venv\Scripts\Activate
+
+
+###### Once activated, youll see the environments name in your terminal prompt (usually something like (venv)):
+
+(venv) C:\Users\YourUsername\Projects\MyNewProject>
