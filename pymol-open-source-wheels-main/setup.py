@@ -61,10 +61,10 @@ int WINAPI wWinMain(
 with open('pymol.rc', 'w') as fh:
     fh.write('IDI_MAIN_ICON ICON "PyMOL.ico"')
 
-objects = compiler.compile(
+objects = ccompiler.compile(
     ['pymol.cpp'], include_dirs=[f'{sys.prefix}\\include']
 )
-compiler.link_executable(
+ccompiler.link_executable(
     objects + ['pymol.res'],
     'PyMOL',
     output_dir='.',
