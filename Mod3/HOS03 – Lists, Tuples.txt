@@ -79,7 +79,6 @@ We will create a Python project to cover all the learning outcomes.
 1.	Create a Python file named HOS03.py
 2.	Create a function to add a book to the book list.
 
- 
 3.	Create a function to remove a book by its title.
  
 
