@@ -31,8 +31,7 @@ def convert_to_lists(tuple_list):   # Convert each tuple to a list and return a 
     return [list(t) for t in tuple_list]
 books_list = [
     ["1984", "George Orwell"],
-    ["To Kill a Mockingbird", "Harper Lee"]
-]
+    ["To Kill a Mockingbird", "Harper Lee"]]
 # Removed erroneous call to remove_books as it used an undefined variable.
 books_tuples = convert_to_tuples(books_list)  # Convert the list of books to a list of tuples   
 
